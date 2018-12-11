@@ -1,2 +1,2 @@
 echo "Hello from Jenkins:%date%:%time%"
-echo "I am in Branch"
+echo "I am in DEF"
